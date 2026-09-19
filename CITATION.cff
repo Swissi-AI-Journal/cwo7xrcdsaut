@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the paper using the metadata below."
+title: "Functional Architecture of European Electricity Trading Markets: Requirements for AI Supported Trading Systems under Regulatory Constraints"
+type: article
+authors:
+  - family-names: "Kurz"
+    given-names: "Walter"
+    orcid: "https://orcid.org/0009-0006-8045-4775"
+  - family-names: "Stricker"
+    given-names: "Wojtek"
+journal: Swissi AI Journal
+volume: "2026"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21901249"
+    description: Published paper DOI
+license: CC-BY-4.0
+url: "https://journal.swissi-ai.institute/en/doi/cwo7xrcdsaut"

@@ -1,0 +1,4189 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{adex_bsp_majority_2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d698ae33d83df8044016fac26e199a20}{%
+           family={{ADEX Group}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{d698ae33d83df8044016fac26e199a20}
+      \strng{fullhash}{d698ae33d83df8044016fac26e199a20}
+      \strng{fullhashraw}{d698ae33d83df8044016fac26e199a20}
+      \strng{bibnamehash}{d698ae33d83df8044016fac26e199a20}
+      \strng{authorbibnamehash}{d698ae33d83df8044016fac26e199a20}
+      \strng{authornamehash}{d698ae33d83df8044016fac26e199a20}
+      \strng{authorfullhash}{d698ae33d83df8044016fac26e199a20}
+      \strng{authorfullhashraw}{d698ae33d83df8044016fac26e199a20}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ADEX Group Closes Acquisition of Majority Stake in BSP SouthPool}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://adexgroup.com/adex-group-closes-acquisition-of-majority-stake-in-bsp-southpool/
+      \endverb
+      \verb{url}
+      \verb https://adexgroup.com/adex-group-closes-acquisition-of-majority-stake-in-bsp-southpool/
+      \endverb
+    \endentry
+    \entry{adex_group_about_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d698ae33d83df8044016fac26e199a20}{%
+           family={{ADEX Group}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{d698ae33d83df8044016fac26e199a20}
+      \strng{fullhash}{d698ae33d83df8044016fac26e199a20}
+      \strng{fullhashraw}{d698ae33d83df8044016fac26e199a20}
+      \strng{bibnamehash}{d698ae33d83df8044016fac26e199a20}
+      \strng{authorbibnamehash}{d698ae33d83df8044016fac26e199a20}
+      \strng{authornamehash}{d698ae33d83df8044016fac26e199a20}
+      \strng{authorfullhash}{d698ae33d83df8044016fac26e199a20}
+      \strng{authorfullhashraw}{d698ae33d83df8044016fac26e199a20}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{About Us}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://adexgroup.com/about-us/
+      \endverb
+      \verb{url}
+      \verb https://adexgroup.com/about-us/
+      \endverb
+    \endentry
+    \entry{acer_market_design_assessment_2022}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f576d097ecd0e4f7a131e18cceadaeb3}{%
+           family={{Agency for the Cooperation of Energy Regulators}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{fullhash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{fullhashraw}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{bibnamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorbibnamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authornamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorfullhash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorfullhashraw}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{04}
+      \field{title}{ACER's Final Assessment of the EU Wholesale Electricity Market Design}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://acer.europa.eu/news-and-events/news/acers-final-assessment-eu-wholesale-electricity-market-design
+      \endverb
+      \verb{url}
+      \verb https://acer.europa.eu/news-and-events/news/acers-final-assessment-eu-wholesale-electricity-market-design
+      \endverb
+    \endentry
+    \entry{acer_final_assessment_report_2022}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f576d097ecd0e4f7a131e18cceadaeb3}{%
+           family={{Agency for the Cooperation of Energy Regulators}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{fullhash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{fullhashraw}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{bibnamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorbibnamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authornamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorfullhash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorfullhashraw}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{04}
+      \field{title}{Final Assessment of the EU Wholesale Electricity Market Design}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.acer.europa.eu/Publications/Final_Assessment_EU_Wholesale_Electricity_Market_Design.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.acer.europa.eu/Publications/Final_Assessment_EU_Wholesale_Electricity_Market_Design.pdf
+      \endverb
+    \endentry
+    \entry{acer_remit_algorithmic_notifications_2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f576d097ecd0e4f7a131e18cceadaeb3}{%
+           family={{Agency for the Cooperation of Energy Regulators}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{fullhash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{fullhashraw}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{bibnamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorbibnamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authornamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorfullhash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorfullhashraw}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \field{extraname}{3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{07}
+      \field{title}{Revised REMIT Brings New Obligations Market Participants ACER Addresses Algorithmic Trading Notifications}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.acer.europa.eu/news-and-events/news/revised-remit-brings-new-obligations-market-participants-acer-addresses-algorithmic-trading-notifications
+      \endverb
+      \verb{url}
+      \verb https://www.acer.europa.eu/news-and-events/news/revised-remit-brings-new-obligations-market-participants-acer-addresses-algorithmic-trading-notifications
+      \endverb
+    \endentry
+    \entry{acer_nemo_designation_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f576d097ecd0e4f7a131e18cceadaeb3}{%
+           family={{Agency for the Cooperation of Energy Regulators}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{fullhash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{fullhashraw}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{bibnamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorbibnamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authornamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorfullhash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorfullhashraw}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \field{extraname}{4}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Designation of NEMOs}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.acer.europa.eu/electricity/market-rules/capacity-allocation-and-congestion-management/implementation/designation-of-nemos
+      \endverb
+      \verb{url}
+      \verb https://www.acer.europa.eu/electricity/market-rules/capacity-allocation-and-congestion-management/implementation/designation-of-nemos
+      \endverb
+    \endentry
+    \entry{acer_market_coupling_development_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f576d097ecd0e4f7a131e18cceadaeb3}{%
+           family={{Agency for the Cooperation of Energy Regulators}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{fullhash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{fullhashraw}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{bibnamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorbibnamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authornamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorfullhash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorfullhashraw}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \field{extraname}{5}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Market Coupling Development under CACM}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.acer.europa.eu/electricity/market-rules/capacity-allocation-and-congestion-management-cacm/market-coupling-development
+      \endverb
+      \verb{url}
+      \verb https://www.acer.europa.eu/electricity/market-rules/capacity-allocation-and-congestion-management-cacm/market-coupling-development
+      \endverb
+    \endentry
+    \entry{acer_remit_registration_market_participants_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f576d097ecd0e4f7a131e18cceadaeb3}{%
+           family={{Agency for the Cooperation of Energy Regulators}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{fullhash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{fullhashraw}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{bibnamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorbibnamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authornamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorfullhash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorfullhashraw}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \field{extraname}{6}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Registration of Market Participants}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.acer.europa.eu/remit/remit-portal/registration-market-participants
+      \endverb
+      \verb{url}
+      \verb https://www.acer.europa.eu/remit/remit-portal/registration-market-participants
+      \endverb
+    \endentry
+    \entry{acer_nemo_list_jan_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f576d097ecd0e4f7a131e18cceadaeb3}{%
+           family={{Agency for the Cooperation of Energy Regulators}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{fullhash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{fullhashraw}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{bibnamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorbibnamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authornamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorfullhash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorfullhashraw}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \field{extraname}{7}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{01}
+      \field{title}{List of Currently Designated NEMOs and the Information in Which Member States They Provide Services}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.acer.europa.eu/sites/default/files/documents/en/Electricity/MARKET-CODES/CAPACITY-ALLOCATION-AND-CONGESTION-MANAGEMENT/Documents/NEMOs-list-January-2026.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.acer.europa.eu/sites/default/files/documents/en/Electricity/MARKET-CODES/CAPACITY-ALLOCATION-AND-CONGESTION-MANAGEMENT/Documents/NEMOs-list-January-2026.pdf
+      \endverb
+    \endentry
+    \entry{angelopoulos_bates_2021_conformal}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f4d2f42e0342b9eff9fae3b5f334c64d}{%
+           family={Angelopoulos},
+           familyi={A\bibinitperiod},
+           given={Anastasios\bibnamedelima N.},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5bedf42bce17b8dfd1813d85cc06234a}{%
+           family={Bates},
+           familyi={B\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cb07802f042d1fcc451b6d432eafcb2f}
+      \strng{fullhash}{cb07802f042d1fcc451b6d432eafcb2f}
+      \strng{fullhashraw}{cb07802f042d1fcc451b6d432eafcb2f}
+      \strng{bibnamehash}{cb07802f042d1fcc451b6d432eafcb2f}
+      \strng{authorbibnamehash}{cb07802f042d1fcc451b6d432eafcb2f}
+      \strng{authornamehash}{cb07802f042d1fcc451b6d432eafcb2f}
+      \strng{authorfullhash}{cb07802f042d1fcc451b6d432eafcb2f}
+      \strng{authorfullhashraw}{cb07802f042d1fcc451b6d432eafcb2f}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CoRR}
+      \field{title}{A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{abs/2107.07511}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2107.07511
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2107.07511
+      \endverb
+    \endentry
+    \entry{bsp_about_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7d4a8a613f2bb54448f853adc56579d6}{%
+           family={{BSP SouthPool}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{7d4a8a613f2bb54448f853adc56579d6}
+      \strng{fullhash}{7d4a8a613f2bb54448f853adc56579d6}
+      \strng{fullhashraw}{7d4a8a613f2bb54448f853adc56579d6}
+      \strng{bibnamehash}{7d4a8a613f2bb54448f853adc56579d6}
+      \strng{authorbibnamehash}{7d4a8a613f2bb54448f853adc56579d6}
+      \strng{authornamehash}{7d4a8a613f2bb54448f853adc56579d6}
+      \strng{authorfullhash}{7d4a8a613f2bb54448f853adc56579d6}
+      \strng{authorfullhashraw}{7d4a8a613f2bb54448f853adc56579d6}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{About Us}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.bsp-southpool.com/about-us/
+      \endverb
+      \verb{url}
+      \verb https://www.bsp-southpool.com/about-us/
+      \endverb
+    \endentry
+    \entry{brm_markets_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bf69a2af924aa895375dddb172572af8}{%
+           family={{Bursa Romana de Marfuri}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{bf69a2af924aa895375dddb172572af8}
+      \strng{fullhash}{bf69a2af924aa895375dddb172572af8}
+      \strng{fullhashraw}{bf69a2af924aa895375dddb172572af8}
+      \strng{bibnamehash}{bf69a2af924aa895375dddb172572af8}
+      \strng{authorbibnamehash}{bf69a2af924aa895375dddb172572af8}
+      \strng{authornamehash}{bf69a2af924aa895375dddb172572af8}
+      \strng{authorfullhash}{bf69a2af924aa895375dddb172572af8}
+      \strng{authorfullhashraw}{bf69a2af924aa895375dddb172572af8}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Markets Managed by the Romanian Commodities Exchange}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://brm.ro/en/markets/
+      \endverb
+      \verb{url}
+      \verb https://brm.ro/en/markets/
+      \endverb
+    \endentry
+    \entry{cropex_about_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=72ef8c350e8d1dd7c24380cd54ccf6b0}{%
+           family={{CROPEX}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{72ef8c350e8d1dd7c24380cd54ccf6b0}
+      \strng{fullhash}{72ef8c350e8d1dd7c24380cd54ccf6b0}
+      \strng{fullhashraw}{72ef8c350e8d1dd7c24380cd54ccf6b0}
+      \strng{bibnamehash}{72ef8c350e8d1dd7c24380cd54ccf6b0}
+      \strng{authorbibnamehash}{72ef8c350e8d1dd7c24380cd54ccf6b0}
+      \strng{authornamehash}{72ef8c350e8d1dd7c24380cd54ccf6b0}
+      \strng{authorfullhash}{72ef8c350e8d1dd7c24380cd54ccf6b0}
+      \strng{authorfullhashraw}{72ef8c350e8d1dd7c24380cd54ccf6b0}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{About Us}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.cropex.hr/en/about-us
+      \endverb
+      \verb{url}
+      \verb https://www.cropex.hr/en/about-us
+      \endverb
+    \endentry
+    \entry{di_persio_garbelli_giordano_2025_rl_bidding}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2263c4fd4598d3f295a8f0f20909866b}{%
+           family={Di\bibnamedelima Persio},
+           familyi={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Luca},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ec105a839b795a20f4d8a8079ddfa8ba}{%
+           family={Garbelli},
+           familyi={G\bibinitperiod},
+           given={Matteo},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb2ae9bf464213ff1ba2a7a8d3e00130}{%
+           family={Giordano},
+           familyi={G\bibinitperiod},
+           given={Luca\bibnamedelima Maria},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4ce0a10e8de26199f76d6b9e1677f354}
+      \strng{fullhash}{75d79cc73a77b13511ae17032c88e493}
+      \strng{fullhashraw}{75d79cc73a77b13511ae17032c88e493}
+      \strng{bibnamehash}{75d79cc73a77b13511ae17032c88e493}
+      \strng{authorbibnamehash}{75d79cc73a77b13511ae17032c88e493}
+      \strng{authornamehash}{4ce0a10e8de26199f76d6b9e1677f354}
+      \strng{authorfullhash}{75d79cc73a77b13511ae17032c88e493}
+      \strng{authorfullhashraw}{75d79cc73a77b13511ae17032c88e493}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy Economics}
+      \field{title}{Reinforcement Learning for Bidding Strategy Optimization in Day-Ahead Energy Market}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{149}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \field{pages}{108673}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.eneco.2025.108673
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0140988325005006
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0140988325005006
+      \endverb
+    \endentry
+    \entry{entsoe_mari_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2cdf01a1dacd4fc793f59761eea73957}{%
+           family={{ENTSO-E}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{fullhash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{fullhashraw}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{bibnamehash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{authorbibnamehash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{authornamehash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{authorfullhash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{authorfullhashraw}{2cdf01a1dacd4fc793f59761eea73957}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{MARI Platform}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.entsoe.eu/network_codes/eb/mari/
+      \endverb
+      \verb{url}
+      \verb https://www.entsoe.eu/network_codes/eb/mari/
+      \endverb
+    \endentry
+    \entry{entsoe_picasso_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2cdf01a1dacd4fc793f59761eea73957}{%
+           family={{ENTSO-E}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{fullhash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{fullhashraw}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{bibnamehash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{authorbibnamehash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{authornamehash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{authorfullhash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{authorfullhashraw}{2cdf01a1dacd4fc793f59761eea73957}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{PICASSO Platform}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.entsoe.eu/network_codes/eb/picasso/
+      \endverb
+      \verb{url}
+      \verb https://www.entsoe.eu/network_codes/eb/picasso/
+      \endverb
+    \endentry
+    \entry{entsoe_terre_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2cdf01a1dacd4fc793f59761eea73957}{%
+           family={{ENTSO-E}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{fullhash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{fullhashraw}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{bibnamehash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{authorbibnamehash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{authornamehash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{authorfullhash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{authorfullhashraw}{2cdf01a1dacd4fc793f59761eea73957}
+      \field{extraname}{3}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{TERRE Platform}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.entsoe.eu/network_codes/eb/terre/
+      \endverb
+      \verb{url}
+      \verb https://www.entsoe.eu/network_codes/eb/terre/
+      \endverb
+    \endentry
+    \entry{epex_company_information_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=edc6e9677db612fae075f705564fd1ee}{%
+           family={{EPEX SPOT}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{edc6e9677db612fae075f705564fd1ee}
+      \strng{fullhash}{edc6e9677db612fae075f705564fd1ee}
+      \strng{fullhashraw}{edc6e9677db612fae075f705564fd1ee}
+      \strng{bibnamehash}{edc6e9677db612fae075f705564fd1ee}
+      \strng{authorbibnamehash}{edc6e9677db612fae075f705564fd1ee}
+      \strng{authornamehash}{edc6e9677db612fae075f705564fd1ee}
+      \strng{authorfullhash}{edc6e9677db612fae075f705564fd1ee}
+      \strng{authorfullhashraw}{edc6e9677db612fae075f705564fd1ee}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Company Information}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.epexspot.com/en/company-information
+      \endverb
+      \verb{url}
+      \verb https://www.epexspot.com/en/company-information
+      \endverb
+    \endentry
+    \entry{etpa_nemo_license_2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3b3d8f82100c139029edf53c2245c4f9}{%
+           family={{ETPA}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{3b3d8f82100c139029edf53c2245c4f9}
+      \strng{fullhash}{3b3d8f82100c139029edf53c2245c4f9}
+      \strng{fullhashraw}{3b3d8f82100c139029edf53c2245c4f9}
+      \strng{bibnamehash}{3b3d8f82100c139029edf53c2245c4f9}
+      \strng{authorbibnamehash}{3b3d8f82100c139029edf53c2245c4f9}
+      \strng{authornamehash}{3b3d8f82100c139029edf53c2245c4f9}
+      \strng{authorfullhash}{3b3d8f82100c139029edf53c2245c4f9}
+      \strng{authorfullhashraw}{3b3d8f82100c139029edf53c2245c4f9}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ETPA Acquires European Trading License and Growth Capital from SET Ventures and ABN AMRO}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.etpa.nl/en/news/etpa-acquires-european-trading-license-and-growth-capital-from-set-ventures-and-abn-amro
+      \endverb
+      \verb{url}
+      \verb https://www.etpa.nl/en/news/etpa-acquires-european-trading-license-and-growth-capital-from-set-ventures-and-abn-amro
+      \endverb
+    \endentry
+    \entry{etpa_about_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3b3d8f82100c139029edf53c2245c4f9}{%
+           family={{ETPA}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{3b3d8f82100c139029edf53c2245c4f9}
+      \strng{fullhash}{3b3d8f82100c139029edf53c2245c4f9}
+      \strng{fullhashraw}{3b3d8f82100c139029edf53c2245c4f9}
+      \strng{bibnamehash}{3b3d8f82100c139029edf53c2245c4f9}
+      \strng{authorbibnamehash}{3b3d8f82100c139029edf53c2245c4f9}
+      \strng{authornamehash}{3b3d8f82100c139029edf53c2245c4f9}
+      \strng{authorfullhash}{3b3d8f82100c139029edf53c2245c4f9}
+      \strng{authorfullhashraw}{3b3d8f82100c139029edf53c2245c4f9}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{About}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.etpa.nl/en/about
+      \endverb
+      \verb{url}
+      \verb https://www.etpa.nl/en/about
+      \endverb
+    \endentry
+    \entry{euronext_nord_pool_power_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f5e7898b14e1b64bcd107a4a44c206b6}{%
+           family={{Euronext}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{f5e7898b14e1b64bcd107a4a44c206b6}
+      \strng{fullhash}{f5e7898b14e1b64bcd107a4a44c206b6}
+      \strng{fullhashraw}{f5e7898b14e1b64bcd107a4a44c206b6}
+      \strng{bibnamehash}{f5e7898b14e1b64bcd107a4a44c206b6}
+      \strng{authorbibnamehash}{f5e7898b14e1b64bcd107a4a44c206b6}
+      \strng{authornamehash}{f5e7898b14e1b64bcd107a4a44c206b6}
+      \strng{authorfullhash}{f5e7898b14e1b64bcd107a4a44c206b6}
+      \strng{authorfullhashraw}{f5e7898b14e1b64bcd107a4a44c206b6}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Power Derivatives - Euronext Nord Pool Power Futures}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://live.euronext.com/en/products/commodities/power-derivatives
+      \endverb
+      \verb{url}
+      \verb https://live.euronext.com/en/products/commodities/power-derivatives
+      \endverb
+    \endentry
+    \entry{eu_reg_2016_1719}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a1b813a6e85874b4c945aec2cdbea74c}{%
+           family={{European Commission}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{bibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorbibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Commission Regulation (EU) 2016/1719 of 26 September 2016 Establishing a Guideline on Forward Capacity Allocation}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.259.01.0042.01.ENG&toc=OJ:L:2016:259:TOC
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.259.01.0042.01.ENG&toc=OJ:L:2016:259:TOC
+      \endverb
+    \endentry
+    \entry{eu_reg_2017_2195_ebgl}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a1b813a6e85874b4c945aec2cdbea74c}{%
+           family={{European Commission}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{bibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorbibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Commission Regulation (EU) 2017/2195 of 23 November 2017 Establishing a Guideline on Electricity Balancing}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R2195
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R2195
+      \endverb
+    \endentry
+    \entry{ec_electricity_market_design_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a1b813a6e85874b4c945aec2cdbea74c}{%
+           family={{European Commission}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{bibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorbibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \field{extraname}{3}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Electricity Market Design}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://energy.ec.europa.eu/topics/markets-and-consumers/electricity-market-design_en
+      \endverb
+      \verb{url}
+      \verb https://energy.ec.europa.eu/topics/markets-and-consumers/electricity-market-design_en
+      \endverb
+    \endentry
+    \entry{ec_network_codes_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a1b813a6e85874b4c945aec2cdbea74c}{%
+           family={{European Commission}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{bibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorbibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \field{extraname}{4}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Electricity Network Codes and Guidelines}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://energy.ec.europa.eu/topics/markets-and-consumers/wholesale-energy-market/electricity-network-codes-and-guidelines_en
+      \endverb
+      \verb{url}
+      \verb https://energy.ec.europa.eu/topics/markets-and-consumers/wholesale-energy-market/electricity-network-codes-and-guidelines_en
+      \endverb
+    \endentry
+    \entry{eex_power_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e200f3b625070552de188dd9b8bd1a71}{%
+           family={{European Energy Exchange}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{e200f3b625070552de188dd9b8bd1a71}
+      \strng{fullhash}{e200f3b625070552de188dd9b8bd1a71}
+      \strng{fullhashraw}{e200f3b625070552de188dd9b8bd1a71}
+      \strng{bibnamehash}{e200f3b625070552de188dd9b8bd1a71}
+      \strng{authorbibnamehash}{e200f3b625070552de188dd9b8bd1a71}
+      \strng{authornamehash}{e200f3b625070552de188dd9b8bd1a71}
+      \strng{authorfullhash}{e200f3b625070552de188dd9b8bd1a71}
+      \strng{authorfullhashraw}{e200f3b625070552de188dd9b8bd1a71}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Power}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.eex.com/en/markets/power
+      \endverb
+      \verb{url}
+      \verb https://www.eex.com/en/markets/power
+      \endverb
+    \endentry
+    \entry{eex_access_trading_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e200f3b625070552de188dd9b8bd1a71}{%
+           family={{European Energy Exchange}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{e200f3b625070552de188dd9b8bd1a71}
+      \strng{fullhash}{e200f3b625070552de188dd9b8bd1a71}
+      \strng{fullhashraw}{e200f3b625070552de188dd9b8bd1a71}
+      \strng{bibnamehash}{e200f3b625070552de188dd9b8bd1a71}
+      \strng{authorbibnamehash}{e200f3b625070552de188dd9b8bd1a71}
+      \strng{authornamehash}{e200f3b625070552de188dd9b8bd1a71}
+      \strng{authorfullhash}{e200f3b625070552de188dd9b8bd1a71}
+      \strng{authorfullhashraw}{e200f3b625070552de188dd9b8bd1a71}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Power Derivatives Access and Trading}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.eex.com/en/markets/power/power-derivatives/access-and-trading
+      \endverb
+      \verb{url}
+      \verb https://www.eex.com/en/markets/power/power-derivatives/access-and-trading
+      \endverb
+    \endentry
+    \entry{eu_reg_2011_1227_remit}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d0baa957acb6522d22e3251a428fe067}{%
+           family={{European Parliament and Council of the European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{fullhash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{fullhashraw}{d0baa957acb6522d22e3251a428fe067}
+      \strng{bibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorbibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authornamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorfullhash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorfullhashraw}{d0baa957acb6522d22e3251a428fe067}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) No 1227/2011 on Wholesale Energy Market Integrity and Transparency (REMIT)}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011R1227
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011R1227
+      \endverb
+    \endentry
+    \entry{eu_reg_2012_648_emir}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d0baa957acb6522d22e3251a428fe067}{%
+           family={{European Parliament and Council of the European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{fullhash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{fullhashraw}{d0baa957acb6522d22e3251a428fe067}
+      \strng{bibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorbibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authornamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorfullhash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorfullhashraw}{d0baa957acb6522d22e3251a428fe067}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) No 648/2012 on OTC Derivatives, Central Counterparties and Trade Repositories (EMIR)}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0648
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0648
+      \endverb
+    \endentry
+    \entry{eu_dir_2014_65_mifid2}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d0baa957acb6522d22e3251a428fe067}{%
+           family={{European Parliament and Council of the European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{fullhash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{fullhashraw}{d0baa957acb6522d22e3251a428fe067}
+      \strng{bibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorbibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authornamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorfullhash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorfullhashraw}{d0baa957acb6522d22e3251a428fe067}
+      \field{extraname}{3}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Directive 2014/65/EU on Markets in Financial Instruments (MiFID II)}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32014L0065
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32014L0065
+      \endverb
+    \endentry
+    \entry{eu_reg_2014_600_mifir}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d0baa957acb6522d22e3251a428fe067}{%
+           family={{European Parliament and Council of the European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{fullhash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{fullhashraw}{d0baa957acb6522d22e3251a428fe067}
+      \strng{bibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorbibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authornamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorfullhash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorfullhashraw}{d0baa957acb6522d22e3251a428fe067}
+      \field{extraname}{4}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) No 600/2014 on Markets in Financial Instruments (MiFIR)}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32014R0600
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32014R0600
+      \endverb
+    \endentry
+    \entry{eu_reg_2019_943}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d0baa957acb6522d22e3251a428fe067}{%
+           family={{European Parliament and Council of the European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{fullhash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{fullhashraw}{d0baa957acb6522d22e3251a428fe067}
+      \strng{bibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorbibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authornamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorfullhash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorfullhashraw}{d0baa957acb6522d22e3251a428fe067}
+      \field{extraname}{5}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) 2019/943 of 5 June 2019 on the Internal Market for Electricity}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.158.01.0054.01.ENG&toc=OJ:L:2019:158:TOC
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.158.01.0054.01.ENG&toc=OJ:L:2019:158:TOC
+      \endverb
+    \endentry
+    \entry{eu_reg_2024_1106_remit2}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d0baa957acb6522d22e3251a428fe067}{%
+           family={{European Parliament and Council of the European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{fullhash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{fullhashraw}{d0baa957acb6522d22e3251a428fe067}
+      \strng{bibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorbibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authornamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorfullhash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorfullhashraw}{d0baa957acb6522d22e3251a428fe067}
+      \field{extraname}{6}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) 2024/1106 of 29 April 2024 Amending Regulations (EU) No 1227/2011 and (EU) 2019/942 as Regards Improving the Union's Protection Against Market Manipulation in the Wholesale Energy Market}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2024/1106/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2024/1106/oj
+      \endverb
+    \endentry
+    \entry{eu_reg_2024_1689_ai_act}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d0baa957acb6522d22e3251a428fe067}{%
+           family={{European Parliament and Council of the European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{fullhash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{fullhashraw}{d0baa957acb6522d22e3251a428fe067}
+      \strng{bibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorbibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authornamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorfullhash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorfullhashraw}{d0baa957acb6522d22e3251a428fe067}
+      \field{extraname}{7}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{07}
+      \field{title}{Regulation (EU) 2024/1689 Laying Down Harmonised Rules on Artificial Intelligence}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://op.europa.eu/en/publication-detail/-/publication/dc8116a1-3fe6-11ef-865a-01aa75ed71a1/language-en
+      \endverb
+      \verb{url}
+      \verb https://op.europa.eu/en/publication-detail/-/publication/dc8116a1-3fe6-11ef-865a-01aa75ed71a1/language-en
+      \endverb
+    \endentry
+    \entry{exaa_about_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=75e019db7cdcb2e45ad27f4165c74649}{%
+           family={{EXAA}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{75e019db7cdcb2e45ad27f4165c74649}
+      \strng{fullhash}{75e019db7cdcb2e45ad27f4165c74649}
+      \strng{fullhashraw}{75e019db7cdcb2e45ad27f4165c74649}
+      \strng{bibnamehash}{75e019db7cdcb2e45ad27f4165c74649}
+      \strng{authorbibnamehash}{75e019db7cdcb2e45ad27f4165c74649}
+      \strng{authornamehash}{75e019db7cdcb2e45ad27f4165c74649}
+      \strng{authorfullhash}{75e019db7cdcb2e45ad27f4165c74649}
+      \strng{authorfullhashraw}{75e019db7cdcb2e45ad27f4165c74649}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{About EXAA}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.exaa.at/en/about-exaa/
+      \endverb
+      \verb{url}
+      \verb https://www.exaa.at/en/about-exaa/
+      \endverb
+    \endentry
+    \entry{gme_organization_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=506b6073c212531ce1072776a8a1b868}{%
+           family={{Gestore dei Mercati Energetici}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{506b6073c212531ce1072776a8a1b868}
+      \strng{fullhash}{506b6073c212531ce1072776a8a1b868}
+      \strng{fullhashraw}{506b6073c212531ce1072776a8a1b868}
+      \strng{bibnamehash}{506b6073c212531ce1072776a8a1b868}
+      \strng{authorbibnamehash}{506b6073c212531ce1072776a8a1b868}
+      \strng{authornamehash}{506b6073c212531ce1072776a8a1b868}
+      \strng{authorfullhash}{506b6073c212531ce1072776a8a1b868}
+      \strng{authorfullhashraw}{506b6073c212531ce1072776a8a1b868}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Organization}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.mercatoelettrico.org/en-us/Home/Aboutus/Organization
+      \endverb
+      \verb{url}
+      \verb https://www.mercatoelettrico.org/en-us/Home/Aboutus/Organization
+      \endverb
+    \endentry
+    \entry{gpw_h1_2025_tge_ownership_2025}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=57e8d324990ee87c31db195956940074}{%
+           family={{Gielda Papierow Wartosciowych w Warszawie}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{57e8d324990ee87c31db195956940074}
+      \strng{fullhash}{57e8d324990ee87c31db195956940074}
+      \strng{fullhashraw}{57e8d324990ee87c31db195956940074}
+      \strng{bibnamehash}{57e8d324990ee87c31db195956940074}
+      \strng{authorbibnamehash}{57e8d324990ee87c31db195956940074}
+      \strng{authornamehash}{57e8d324990ee87c31db195956940074}
+      \strng{authorfullhash}{57e8d324990ee87c31db195956940074}
+      \strng{authorfullhashraw}{57e8d324990ee87c31db195956940074}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{GPW Group H1 2025 Consolidated Financial Report}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://pap-mediaroom.pl/sites/default/files/2025-09/GPW_Group_H1_2025_Consolidated_Financial_Report.pdf
+      \endverb
+      \verb{url}
+      \verb https://pap-mediaroom.pl/sites/default/files/2025-09/GPW_Group_H1_2025_Consolidated_Financial_Report.pdf
+      \endverb
+    \endentry
+    \entry{henex_company_profile_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5466212728fbd1293e66307aed67f422}{%
+           family={{HEnEx Group}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{5466212728fbd1293e66307aed67f422}
+      \strng{fullhash}{5466212728fbd1293e66307aed67f422}
+      \strng{fullhashraw}{5466212728fbd1293e66307aed67f422}
+      \strng{bibnamehash}{5466212728fbd1293e66307aed67f422}
+      \strng{authorbibnamehash}{5466212728fbd1293e66307aed67f422}
+      \strng{authornamehash}{5466212728fbd1293e66307aed67f422}
+      \strng{authorfullhash}{5466212728fbd1293e66307aed67f422}
+      \strng{authorfullhashraw}{5466212728fbd1293e66307aed67f422}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Company Profile}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.enexgroup.gr/web/guest/company-profile
+      \endverb
+      \verb{url}
+      \verb https://www.enexgroup.gr/web/guest/company-profile
+      \endverb
+    \endentry
+    \entry{hupx_about_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=14bcf8c7507f3d9614a0b5c45a3724ce}{%
+           family={{HUPX}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{14bcf8c7507f3d9614a0b5c45a3724ce}
+      \strng{fullhash}{14bcf8c7507f3d9614a0b5c45a3724ce}
+      \strng{fullhashraw}{14bcf8c7507f3d9614a0b5c45a3724ce}
+      \strng{bibnamehash}{14bcf8c7507f3d9614a0b5c45a3724ce}
+      \strng{authorbibnamehash}{14bcf8c7507f3d9614a0b5c45a3724ce}
+      \strng{authornamehash}{14bcf8c7507f3d9614a0b5c45a3724ce}
+      \strng{authorfullhash}{14bcf8c7507f3d9614a0b5c45a3724ce}
+      \strng{authorfullhashraw}{14bcf8c7507f3d9614a0b5c45a3724ce}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{About}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://hupx.hu/about
+      \endverb
+      \verb{url}
+      \verb https://hupx.hu/about
+      \endverb
+    \endentry
+    \entry{ibex_profile_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=20c11ba2bdb0e73f54590d8a3751a9a4}{%
+           family={{Independent Bulgarian Energy Exchange}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{20c11ba2bdb0e73f54590d8a3751a9a4}
+      \strng{fullhash}{20c11ba2bdb0e73f54590d8a3751a9a4}
+      \strng{fullhashraw}{20c11ba2bdb0e73f54590d8a3751a9a4}
+      \strng{bibnamehash}{20c11ba2bdb0e73f54590d8a3751a9a4}
+      \strng{authorbibnamehash}{20c11ba2bdb0e73f54590d8a3751a9a4}
+      \strng{authornamehash}{20c11ba2bdb0e73f54590d8a3751a9a4}
+      \strng{authorfullhash}{20c11ba2bdb0e73f54590d8a3751a9a4}
+      \strng{authorfullhashraw}{20c11ba2bdb0e73f54590d8a3751a9a4}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Profile}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ibex.bg/en/profile.html
+      \endverb
+      \verb{url}
+      \verb https://ibex.bg/en/profile.html
+      \endverb
+    \endentry
+    \entry{ice_endex_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9dc4924554289c38f0c3b8c03dbd576e}{%
+           family={{Intercontinental Exchange}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{9dc4924554289c38f0c3b8c03dbd576e}
+      \strng{fullhash}{9dc4924554289c38f0c3b8c03dbd576e}
+      \strng{fullhashraw}{9dc4924554289c38f0c3b8c03dbd576e}
+      \strng{bibnamehash}{9dc4924554289c38f0c3b8c03dbd576e}
+      \strng{authorbibnamehash}{9dc4924554289c38f0c3b8c03dbd576e}
+      \strng{authornamehash}{9dc4924554289c38f0c3b8c03dbd576e}
+      \strng{authorfullhash}{9dc4924554289c38f0c3b8c03dbd576e}
+      \strng{authorfullhashraw}{9dc4924554289c38f0c3b8c03dbd576e}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ICE Endex Energy Exchange for Gas and Power}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ice.com/ENDEX
+      \endverb
+      \verb{url}
+      \verb https://www.ice.com/ENDEX
+      \endverb
+    \endentry
+    \entry{lago_marcjasz_schutter_weron_2021_epf}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=e6d8a5b4cb4cd4ec0c45b4b15eaecce7}{%
+           family={Lago},
+           familyi={L\bibinitperiod},
+           given={Jesus},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d049c99fa3e5674ec00d202decf5a142}{%
+           family={Marcjasz},
+           familyi={M\bibinitperiod},
+           given={Grzegorz},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3aa279196551f6d4f6429776156250b6}{%
+           family={De\bibnamedelima Schutter},
+           familyi={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Bart},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=50f1e79d93afa08eb15137451cb34709}{%
+           family={Weron},
+           familyi={W\bibinitperiod},
+           given={Rafal},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f35b7b3a425f597f35f5713c0d0b0192}
+      \strng{fullhash}{fe23ba2cfc6ffb2f7c7e41ee6606acbd}
+      \strng{fullhashraw}{fe23ba2cfc6ffb2f7c7e41ee6606acbd}
+      \strng{bibnamehash}{fe23ba2cfc6ffb2f7c7e41ee6606acbd}
+      \strng{authorbibnamehash}{fe23ba2cfc6ffb2f7c7e41ee6606acbd}
+      \strng{authornamehash}{f35b7b3a425f597f35f5713c0d0b0192}
+      \strng{authorfullhash}{fe23ba2cfc6ffb2f7c7e41ee6606acbd}
+      \strng{authorfullhashraw}{fe23ba2cfc6ffb2f7c7e41ee6606acbd}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Energy}
+      \field{title}{Forecasting Day-Ahead Electricity Prices: A Review of State-of-the-Art Algorithms, Best Practices and an Open-Access Benchmark}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{293}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{116983}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.apenergy.2021.116983
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0306261921004529
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0306261921004529
+      \endverb
+    \endentry
+    \entry{nord_pool_general_terms_conditions_2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4dc74925c326d66855187729df7d9d7b}{%
+           family={{Nord Pool}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{fullhash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{fullhashraw}{4dc74925c326d66855187729df7d9d7b}
+      \strng{bibnamehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authorbibnamehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authornamehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authorfullhash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authorfullhashraw}{4dc74925c326d66855187729df7d9d7b}
+      \field{extraname}{1}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{General Terms and Conditions}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nordpoolgroup.com/en/trading/Rule-and-regulations/General-terms-and-conditions/
+      \endverb
+      \verb{url}
+      \verb https://www.nordpoolgroup.com/en/trading/Rule-and-regulations/General-terms-and-conditions/
+      \endverb
+    \endentry
+    \entry{nord_pool_about_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4dc74925c326d66855187729df7d9d7b}{%
+           family={{Nord Pool}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{fullhash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{fullhashraw}{4dc74925c326d66855187729df7d9d7b}
+      \strng{bibnamehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authorbibnamehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authornamehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authorfullhash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authorfullhashraw}{4dc74925c326d66855187729df7d9d7b}
+      \field{extraname}{2}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{About Us}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nordpoolgroup.com/en/about-us/
+      \endverb
+      \verb{url}
+      \verb https://www.nordpoolgroup.com/en/about-us/
+      \endverb
+    \endentry
+    \entry{nord_pool_day_ahead_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4dc74925c326d66855187729df7d9d7b}{%
+           family={{Nord Pool}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{fullhash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{fullhashraw}{4dc74925c326d66855187729df7d9d7b}
+      \strng{bibnamehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authorbibnamehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authornamehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authorfullhash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authorfullhashraw}{4dc74925c326d66855187729df7d9d7b}
+      \field{extraname}{3}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Day-Ahead Market}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nordpoolgroup.com/en/the-power-market/Day-ahead-market/
+      \endverb
+      \verb{url}
+      \verb https://www.nordpoolgroup.com/en/the-power-market/Day-ahead-market/
+      \endverb
+    \endentry
+    \entry{nord_pool_intraday_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4dc74925c326d66855187729df7d9d7b}{%
+           family={{Nord Pool}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{fullhash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{fullhashraw}{4dc74925c326d66855187729df7d9d7b}
+      \strng{bibnamehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authorbibnamehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authornamehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authorfullhash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authorfullhashraw}{4dc74925c326d66855187729df7d9d7b}
+      \field{extraname}{4}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Intraday Market}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nordpoolgroup.com/en/the-power-market/Intraday-market/
+      \endverb
+      \verb{url}
+      \verb https://www.nordpoolgroup.com/en/the-power-market/Intraday-market/
+      \endverb
+    \endentry
+    \entry{nord_pool_rules_regulations_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4dc74925c326d66855187729df7d9d7b}{%
+           family={{Nord Pool}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{fullhash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{fullhashraw}{4dc74925c326d66855187729df7d9d7b}
+      \strng{bibnamehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authorbibnamehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authornamehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authorfullhash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authorfullhashraw}{4dc74925c326d66855187729df7d9d7b}
+      \field{extraname}{5}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Rules and Regulations}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nordpoolgroup.com/en/trading/Rule-and-regulations/
+      \endverb
+      \verb{url}
+      \verb https://www.nordpoolgroup.com/en/trading/Rule-and-regulations/
+      \endverb
+    \endentry
+    \entry{oconnor_bahloul_prestwich_visentin_2025_epf}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4ec943917a50efdf4fc6c26cb9a28a99}{%
+           family={O'Connor},
+           familyi={O\bibinitperiod},
+           given={Ciaran},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d76bb66db658314770818ffb66ab3a34}{%
+           family={Bahloul},
+           familyi={B\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=48723f71036121efe3847a4c1b61635a}{%
+           family={Prestwich},
+           familyi={P\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f161f337343ff60c96e1a19172268c46}{%
+           family={Visentin},
+           familyi={V\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{456350cff9d33559f5870b033cc7a5bc}
+      \strng{fullhash}{56da1f24211cbd853a3d2450e2678527}
+      \strng{fullhashraw}{56da1f24211cbd853a3d2450e2678527}
+      \strng{bibnamehash}{56da1f24211cbd853a3d2450e2678527}
+      \strng{authorbibnamehash}{56da1f24211cbd853a3d2450e2678527}
+      \strng{authornamehash}{456350cff9d33559f5870b033cc7a5bc}
+      \strng{authorfullhash}{56da1f24211cbd853a3d2450e2678527}
+      \strng{authorfullhashraw}{56da1f24211cbd853a3d2450e2678527}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energies}
+      \field{number}{12}
+      \field{title}{A Review of Electricity Price Forecasting Models in the Day-Ahead, Intra-Day, and Balancing Markets}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{18}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \field{pages}{3097}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/en18123097
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/1996-1073/18/12/3097
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/1996-1073/18/12/3097
+      \endverb
+    \endentry
+    \entry{okte_dam_overview_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fe6fda220d44931610d704ed1d7b23f9}{%
+           family={{OKTE, a.s.}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{fe6fda220d44931610d704ed1d7b23f9}
+      \strng{fullhash}{fe6fda220d44931610d704ed1d7b23f9}
+      \strng{fullhashraw}{fe6fda220d44931610d704ed1d7b23f9}
+      \strng{bibnamehash}{fe6fda220d44931610d704ed1d7b23f9}
+      \strng{authorbibnamehash}{fe6fda220d44931610d704ed1d7b23f9}
+      \strng{authornamehash}{fe6fda220d44931610d704ed1d7b23f9}
+      \strng{authorfullhash}{fe6fda220d44931610d704ed1d7b23f9}
+      \strng{authorfullhashraw}{fe6fda220d44931610d704ed1d7b23f9}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Day-Ahead Detailed Overview}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.okte.sk/en/short-term-market/published-information-of-dam/day-ahead-detailed-overview/
+      \endverb
+      \verb{url}
+      \verb https://www.okte.sk/en/short-term-market/published-information-of-dam/day-ahead-detailed-overview/
+      \endverb
+    \endentry
+    \entry{omi_group_faq_ownership_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9d07fc8286cd90e076a891ba3cacb6fa}{%
+           family={{OMI Group}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{9d07fc8286cd90e076a891ba3cacb6fa}
+      \strng{fullhash}{9d07fc8286cd90e076a891ba3cacb6fa}
+      \strng{fullhashraw}{9d07fc8286cd90e076a891ba3cacb6fa}
+      \strng{bibnamehash}{9d07fc8286cd90e076a891ba3cacb6fa}
+      \strng{authorbibnamehash}{9d07fc8286cd90e076a891ba3cacb6fa}
+      \strng{authornamehash}{9d07fc8286cd90e076a891ba3cacb6fa}
+      \strng{authorfullhash}{9d07fc8286cd90e076a891ba3cacb6fa}
+      \strng{authorfullhashraw}{9d07fc8286cd90e076a891ba3cacb6fa}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{FAQs}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.grupoomi.eu/en/faqs/
+      \endverb
+      \verb{url}
+      \verb https://www.grupoomi.eu/en/faqs/
+      \endverb
+    \endentry
+    \entry{omie_about_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=36744d82677cb5239bd1f61d51506e9d}{%
+           family={{OMIE}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{36744d82677cb5239bd1f61d51506e9d}
+      \strng{fullhash}{36744d82677cb5239bd1f61d51506e9d}
+      \strng{fullhashraw}{36744d82677cb5239bd1f61d51506e9d}
+      \strng{bibnamehash}{36744d82677cb5239bd1f61d51506e9d}
+      \strng{authorbibnamehash}{36744d82677cb5239bd1f61d51506e9d}
+      \strng{authornamehash}{36744d82677cb5239bd1f61d51506e9d}
+      \strng{authorfullhash}{36744d82677cb5239bd1f61d51506e9d}
+      \strng{authorfullhashraw}{36744d82677cb5239bd1f61d51506e9d}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{About Us}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.omie.es/en/about-us
+      \endverb
+      \verb{url}
+      \verb https://www.omie.es/en/about-us
+      \endverb
+    \endentry
+    \entry{ote_basic_facts_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=191a3a02b907171f0151eb4f87db46e2}{%
+           family={{OTE, a.s.}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{191a3a02b907171f0151eb4f87db46e2}
+      \strng{fullhash}{191a3a02b907171f0151eb4f87db46e2}
+      \strng{fullhashraw}{191a3a02b907171f0151eb4f87db46e2}
+      \strng{bibnamehash}{191a3a02b907171f0151eb4f87db46e2}
+      \strng{authorbibnamehash}{191a3a02b907171f0151eb4f87db46e2}
+      \strng{authornamehash}{191a3a02b907171f0151eb4f87db46e2}
+      \strng{authorfullhash}{191a3a02b907171f0151eb4f87db46e2}
+      \strng{authorfullhashraw}{191a3a02b907171f0151eb4f87db46e2}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Basic Facts}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ote-cr.cz/en/basic-facts
+      \endverb
+      \verb{url}
+      \verb https://www.ote-cr.cz/en/basic-facts
+      \endverb
+    \endentry
+    \entry{rockafellar_uryasev_2000_cvar}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=18de24308c36b3348b1477a2f7aa442f}{%
+           family={Rockafellar},
+           familyi={R\bibinitperiod},
+           given={R.\bibnamedelimi Tyrrell},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=75a8a2346ba45ae5110aa302b89a30c7}{%
+           family={Uryasev},
+           familyi={U\bibinitperiod},
+           given={Stanislav},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d7d7df1ff728c2fe07554ddd8bb41c56}
+      \strng{fullhash}{d7d7df1ff728c2fe07554ddd8bb41c56}
+      \strng{fullhashraw}{d7d7df1ff728c2fe07554ddd8bb41c56}
+      \strng{bibnamehash}{d7d7df1ff728c2fe07554ddd8bb41c56}
+      \strng{authorbibnamehash}{d7d7df1ff728c2fe07554ddd8bb41c56}
+      \strng{authornamehash}{d7d7df1ff728c2fe07554ddd8bb41c56}
+      \strng{authorfullhash}{d7d7df1ff728c2fe07554ddd8bb41c56}
+      \strng{authorfullhashraw}{d7d7df1ff728c2fe07554ddd8bb41c56}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Risk}
+      \field{number}{3}
+      \field{title}{Optimization of Conditional Value-at-Risk}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{2}
+      \field{year}{2000}
+      \field{urldateera}{ce}
+      \field{pages}{21\bibrangedash 42}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.21314/JOR.2000.038
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.21314/JOR.2000.038
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.21314/JOR.2000.038
+      \endverb
+    \endentry
+    \entry{semopx_about_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2d940061be2db49506446ae4111c0739}{%
+           family={{SEMOpx}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{2d940061be2db49506446ae4111c0739}
+      \strng{fullhash}{2d940061be2db49506446ae4111c0739}
+      \strng{fullhashraw}{2d940061be2db49506446ae4111c0739}
+      \strng{bibnamehash}{2d940061be2db49506446ae4111c0739}
+      \strng{authorbibnamehash}{2d940061be2db49506446ae4111c0739}
+      \strng{authornamehash}{2d940061be2db49506446ae4111c0739}
+      \strng{authorfullhash}{2d940061be2db49506446ae4111c0739}
+      \strng{authorfullhashraw}{2d940061be2db49506446ae4111c0739}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{About SEMOpx}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.semopx.com/about/
+      \endverb
+      \verb{url}
+      \verb https://www.semopx.com/about/
+      \endverb
+    \endentry
+    \entry{nist_ai_rmf_2023}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=da4d6f760817f258d4447d01266d3298}{%
+           family={Tabassi},
+           familyi={T\bibinitperiod},
+           given={Elham},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{2}{%
+        {National Institute of Standards}%
+        {Technology}%
+      }
+      \strng{namehash}{da4d6f760817f258d4447d01266d3298}
+      \strng{fullhash}{da4d6f760817f258d4447d01266d3298}
+      \strng{fullhashraw}{da4d6f760817f258d4447d01266d3298}
+      \strng{bibnamehash}{da4d6f760817f258d4447d01266d3298}
+      \strng{authorbibnamehash}{da4d6f760817f258d4447d01266d3298}
+      \strng{authornamehash}{da4d6f760817f258d4447d01266d3298}
+      \strng{authorfullhash}{da4d6f760817f258d4447d01266d3298}
+      \strng{authorfullhashraw}{da4d6f760817f258d4447d01266d3298}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{NIST AI 100-1}
+      \field{title}{Artificial Intelligence Risk Management Framework (AI RMF 1.0)}
+      \field{type}{techreport}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.6028/NIST.AI.100-1
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.6028/NIST.AI.100-1
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.6028/NIST.AI.100-1
+      \endverb
+    \endentry
+    \entry{transelectrica_opcom_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=52e8aef0e4580200ea0669f22a947a7d}{%
+           family={{Transelectrica}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{52e8aef0e4580200ea0669f22a947a7d}
+      \strng{fullhash}{52e8aef0e4580200ea0669f22a947a7d}
+      \strng{fullhashraw}{52e8aef0e4580200ea0669f22a947a7d}
+      \strng{bibnamehash}{52e8aef0e4580200ea0669f22a947a7d}
+      \strng{authorbibnamehash}{52e8aef0e4580200ea0669f22a947a7d}
+      \strng{authornamehash}{52e8aef0e4580200ea0669f22a947a7d}
+      \strng{authorfullhash}{52e8aef0e4580200ea0669f22a947a7d}
+      \strng{authorfullhashraw}{52e8aef0e4580200ea0669f22a947a7d}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{OPCOM}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.transelectrica.ro/web/tel/opcom
+      \endverb
+      \verb{url}
+      \verb https://www.transelectrica.ro/web/tel/opcom
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{adex_bsp_majority_2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d698ae33d83df8044016fac26e199a20}{%
+           family={{ADEX Group}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{d698ae33d83df8044016fac26e199a20}
+      \strng{fullhash}{d698ae33d83df8044016fac26e199a20}
+      \strng{fullhashraw}{d698ae33d83df8044016fac26e199a20}
+      \strng{bibnamehash}{d698ae33d83df8044016fac26e199a20}
+      \strng{authorbibnamehash}{d698ae33d83df8044016fac26e199a20}
+      \strng{authornamehash}{d698ae33d83df8044016fac26e199a20}
+      \strng{authorfullhash}{d698ae33d83df8044016fac26e199a20}
+      \strng{authorfullhashraw}{d698ae33d83df8044016fac26e199a20}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ADEX Group Closes Acquisition of Majority Stake in BSP SouthPool}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://adexgroup.com/adex-group-closes-acquisition-of-majority-stake-in-bsp-southpool/
+      \endverb
+      \verb{url}
+      \verb https://adexgroup.com/adex-group-closes-acquisition-of-majority-stake-in-bsp-southpool/
+      \endverb
+    \endentry
+    \entry{adex_group_about_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d698ae33d83df8044016fac26e199a20}{%
+           family={{ADEX Group}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{d698ae33d83df8044016fac26e199a20}
+      \strng{fullhash}{d698ae33d83df8044016fac26e199a20}
+      \strng{fullhashraw}{d698ae33d83df8044016fac26e199a20}
+      \strng{bibnamehash}{d698ae33d83df8044016fac26e199a20}
+      \strng{authorbibnamehash}{d698ae33d83df8044016fac26e199a20}
+      \strng{authornamehash}{d698ae33d83df8044016fac26e199a20}
+      \strng{authorfullhash}{d698ae33d83df8044016fac26e199a20}
+      \strng{authorfullhashraw}{d698ae33d83df8044016fac26e199a20}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{About Us}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://adexgroup.com/about-us/
+      \endverb
+      \verb{url}
+      \verb https://adexgroup.com/about-us/
+      \endverb
+    \endentry
+    \entry{acer_market_design_assessment_2022}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f576d097ecd0e4f7a131e18cceadaeb3}{%
+           family={{Agency for the Cooperation of Energy Regulators}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{fullhash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{fullhashraw}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{bibnamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorbibnamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authornamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorfullhash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorfullhashraw}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{04}
+      \field{title}{ACER's Final Assessment of the EU Wholesale Electricity Market Design}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://acer.europa.eu/news-and-events/news/acers-final-assessment-eu-wholesale-electricity-market-design
+      \endverb
+      \verb{url}
+      \verb https://acer.europa.eu/news-and-events/news/acers-final-assessment-eu-wholesale-electricity-market-design
+      \endverb
+    \endentry
+    \entry{acer_final_assessment_report_2022}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f576d097ecd0e4f7a131e18cceadaeb3}{%
+           family={{Agency for the Cooperation of Energy Regulators}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{fullhash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{fullhashraw}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{bibnamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorbibnamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authornamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorfullhash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorfullhashraw}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{04}
+      \field{title}{Final Assessment of the EU Wholesale Electricity Market Design}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.acer.europa.eu/Publications/Final_Assessment_EU_Wholesale_Electricity_Market_Design.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.acer.europa.eu/Publications/Final_Assessment_EU_Wholesale_Electricity_Market_Design.pdf
+      \endverb
+    \endentry
+    \entry{acer_remit_algorithmic_notifications_2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f576d097ecd0e4f7a131e18cceadaeb3}{%
+           family={{Agency for the Cooperation of Energy Regulators}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{fullhash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{fullhashraw}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{bibnamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorbibnamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authornamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorfullhash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorfullhashraw}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \field{extraname}{3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{07}
+      \field{title}{Revised REMIT Brings New Obligations Market Participants ACER Addresses Algorithmic Trading Notifications}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.acer.europa.eu/news-and-events/news/revised-remit-brings-new-obligations-market-participants-acer-addresses-algorithmic-trading-notifications
+      \endverb
+      \verb{url}
+      \verb https://www.acer.europa.eu/news-and-events/news/revised-remit-brings-new-obligations-market-participants-acer-addresses-algorithmic-trading-notifications
+      \endverb
+    \endentry
+    \entry{acer_nemo_designation_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f576d097ecd0e4f7a131e18cceadaeb3}{%
+           family={{Agency for the Cooperation of Energy Regulators}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{fullhash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{fullhashraw}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{bibnamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorbibnamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authornamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorfullhash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorfullhashraw}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \field{extraname}{4}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Designation of NEMOs}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.acer.europa.eu/electricity/market-rules/capacity-allocation-and-congestion-management/implementation/designation-of-nemos
+      \endverb
+      \verb{url}
+      \verb https://www.acer.europa.eu/electricity/market-rules/capacity-allocation-and-congestion-management/implementation/designation-of-nemos
+      \endverb
+    \endentry
+    \entry{acer_market_coupling_development_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f576d097ecd0e4f7a131e18cceadaeb3}{%
+           family={{Agency for the Cooperation of Energy Regulators}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{fullhash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{fullhashraw}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{bibnamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorbibnamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authornamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorfullhash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorfullhashraw}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \field{extraname}{5}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Market Coupling Development under CACM}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.acer.europa.eu/electricity/market-rules/capacity-allocation-and-congestion-management-cacm/market-coupling-development
+      \endverb
+      \verb{url}
+      \verb https://www.acer.europa.eu/electricity/market-rules/capacity-allocation-and-congestion-management-cacm/market-coupling-development
+      \endverb
+    \endentry
+    \entry{acer_remit_registration_market_participants_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f576d097ecd0e4f7a131e18cceadaeb3}{%
+           family={{Agency for the Cooperation of Energy Regulators}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{fullhash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{fullhashraw}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{bibnamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorbibnamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authornamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorfullhash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorfullhashraw}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \field{extraname}{6}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Registration of Market Participants}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.acer.europa.eu/remit/remit-portal/registration-market-participants
+      \endverb
+      \verb{url}
+      \verb https://www.acer.europa.eu/remit/remit-portal/registration-market-participants
+      \endverb
+    \endentry
+    \entry{acer_nemo_list_jan_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f576d097ecd0e4f7a131e18cceadaeb3}{%
+           family={{Agency for the Cooperation of Energy Regulators}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{fullhash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{fullhashraw}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{bibnamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorbibnamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authornamehash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorfullhash}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \strng{authorfullhashraw}{f576d097ecd0e4f7a131e18cceadaeb3}
+      \field{extraname}{7}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{01}
+      \field{title}{List of Currently Designated NEMOs and the Information in Which Member States They Provide Services}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.acer.europa.eu/sites/default/files/documents/en/Electricity/MARKET-CODES/CAPACITY-ALLOCATION-AND-CONGESTION-MANAGEMENT/Documents/NEMOs-list-January-2026.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.acer.europa.eu/sites/default/files/documents/en/Electricity/MARKET-CODES/CAPACITY-ALLOCATION-AND-CONGESTION-MANAGEMENT/Documents/NEMOs-list-January-2026.pdf
+      \endverb
+    \endentry
+    \entry{angelopoulos_bates_2021_conformal}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f4d2f42e0342b9eff9fae3b5f334c64d}{%
+           family={Angelopoulos},
+           familyi={A\bibinitperiod},
+           given={Anastasios\bibnamedelima N.},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5bedf42bce17b8dfd1813d85cc06234a}{%
+           family={Bates},
+           familyi={B\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cb07802f042d1fcc451b6d432eafcb2f}
+      \strng{fullhash}{cb07802f042d1fcc451b6d432eafcb2f}
+      \strng{fullhashraw}{cb07802f042d1fcc451b6d432eafcb2f}
+      \strng{bibnamehash}{cb07802f042d1fcc451b6d432eafcb2f}
+      \strng{authorbibnamehash}{cb07802f042d1fcc451b6d432eafcb2f}
+      \strng{authornamehash}{cb07802f042d1fcc451b6d432eafcb2f}
+      \strng{authorfullhash}{cb07802f042d1fcc451b6d432eafcb2f}
+      \strng{authorfullhashraw}{cb07802f042d1fcc451b6d432eafcb2f}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CoRR}
+      \field{title}{A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{abs/2107.07511}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2107.07511
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2107.07511
+      \endverb
+    \endentry
+    \entry{bsp_about_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7d4a8a613f2bb54448f853adc56579d6}{%
+           family={{BSP SouthPool}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{7d4a8a613f2bb54448f853adc56579d6}
+      \strng{fullhash}{7d4a8a613f2bb54448f853adc56579d6}
+      \strng{fullhashraw}{7d4a8a613f2bb54448f853adc56579d6}
+      \strng{bibnamehash}{7d4a8a613f2bb54448f853adc56579d6}
+      \strng{authorbibnamehash}{7d4a8a613f2bb54448f853adc56579d6}
+      \strng{authornamehash}{7d4a8a613f2bb54448f853adc56579d6}
+      \strng{authorfullhash}{7d4a8a613f2bb54448f853adc56579d6}
+      \strng{authorfullhashraw}{7d4a8a613f2bb54448f853adc56579d6}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{About Us}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.bsp-southpool.com/about-us/
+      \endverb
+      \verb{url}
+      \verb https://www.bsp-southpool.com/about-us/
+      \endverb
+    \endentry
+    \entry{brm_markets_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bf69a2af924aa895375dddb172572af8}{%
+           family={{Bursa Romana de Marfuri}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{bf69a2af924aa895375dddb172572af8}
+      \strng{fullhash}{bf69a2af924aa895375dddb172572af8}
+      \strng{fullhashraw}{bf69a2af924aa895375dddb172572af8}
+      \strng{bibnamehash}{bf69a2af924aa895375dddb172572af8}
+      \strng{authorbibnamehash}{bf69a2af924aa895375dddb172572af8}
+      \strng{authornamehash}{bf69a2af924aa895375dddb172572af8}
+      \strng{authorfullhash}{bf69a2af924aa895375dddb172572af8}
+      \strng{authorfullhashraw}{bf69a2af924aa895375dddb172572af8}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Markets Managed by the Romanian Commodities Exchange}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://brm.ro/en/markets/
+      \endverb
+      \verb{url}
+      \verb https://brm.ro/en/markets/
+      \endverb
+    \endentry
+    \entry{cropex_about_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=72ef8c350e8d1dd7c24380cd54ccf6b0}{%
+           family={{CROPEX}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{72ef8c350e8d1dd7c24380cd54ccf6b0}
+      \strng{fullhash}{72ef8c350e8d1dd7c24380cd54ccf6b0}
+      \strng{fullhashraw}{72ef8c350e8d1dd7c24380cd54ccf6b0}
+      \strng{bibnamehash}{72ef8c350e8d1dd7c24380cd54ccf6b0}
+      \strng{authorbibnamehash}{72ef8c350e8d1dd7c24380cd54ccf6b0}
+      \strng{authornamehash}{72ef8c350e8d1dd7c24380cd54ccf6b0}
+      \strng{authorfullhash}{72ef8c350e8d1dd7c24380cd54ccf6b0}
+      \strng{authorfullhashraw}{72ef8c350e8d1dd7c24380cd54ccf6b0}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{About Us}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.cropex.hr/en/about-us
+      \endverb
+      \verb{url}
+      \verb https://www.cropex.hr/en/about-us
+      \endverb
+    \endentry
+    \entry{di_persio_garbelli_giordano_2025_rl_bidding}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2263c4fd4598d3f295a8f0f20909866b}{%
+           family={Di\bibnamedelima Persio},
+           familyi={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Luca},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ec105a839b795a20f4d8a8079ddfa8ba}{%
+           family={Garbelli},
+           familyi={G\bibinitperiod},
+           given={Matteo},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb2ae9bf464213ff1ba2a7a8d3e00130}{%
+           family={Giordano},
+           familyi={G\bibinitperiod},
+           given={Luca\bibnamedelima Maria},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4ce0a10e8de26199f76d6b9e1677f354}
+      \strng{fullhash}{75d79cc73a77b13511ae17032c88e493}
+      \strng{fullhashraw}{75d79cc73a77b13511ae17032c88e493}
+      \strng{bibnamehash}{75d79cc73a77b13511ae17032c88e493}
+      \strng{authorbibnamehash}{75d79cc73a77b13511ae17032c88e493}
+      \strng{authornamehash}{4ce0a10e8de26199f76d6b9e1677f354}
+      \strng{authorfullhash}{75d79cc73a77b13511ae17032c88e493}
+      \strng{authorfullhashraw}{75d79cc73a77b13511ae17032c88e493}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy Economics}
+      \field{title}{Reinforcement Learning for Bidding Strategy Optimization in Day-Ahead Energy Market}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{149}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \field{pages}{108673}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.eneco.2025.108673
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0140988325005006
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0140988325005006
+      \endverb
+    \endentry
+    \entry{entsoe_mari_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2cdf01a1dacd4fc793f59761eea73957}{%
+           family={{ENTSO-E}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{fullhash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{fullhashraw}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{bibnamehash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{authorbibnamehash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{authornamehash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{authorfullhash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{authorfullhashraw}{2cdf01a1dacd4fc793f59761eea73957}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{MARI Platform}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.entsoe.eu/network_codes/eb/mari/
+      \endverb
+      \verb{url}
+      \verb https://www.entsoe.eu/network_codes/eb/mari/
+      \endverb
+    \endentry
+    \entry{entsoe_picasso_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2cdf01a1dacd4fc793f59761eea73957}{%
+           family={{ENTSO-E}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{fullhash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{fullhashraw}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{bibnamehash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{authorbibnamehash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{authornamehash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{authorfullhash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{authorfullhashraw}{2cdf01a1dacd4fc793f59761eea73957}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{PICASSO Platform}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.entsoe.eu/network_codes/eb/picasso/
+      \endverb
+      \verb{url}
+      \verb https://www.entsoe.eu/network_codes/eb/picasso/
+      \endverb
+    \endentry
+    \entry{entsoe_terre_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2cdf01a1dacd4fc793f59761eea73957}{%
+           family={{ENTSO-E}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{fullhash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{fullhashraw}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{bibnamehash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{authorbibnamehash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{authornamehash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{authorfullhash}{2cdf01a1dacd4fc793f59761eea73957}
+      \strng{authorfullhashraw}{2cdf01a1dacd4fc793f59761eea73957}
+      \field{extraname}{3}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{TERRE Platform}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.entsoe.eu/network_codes/eb/terre/
+      \endverb
+      \verb{url}
+      \verb https://www.entsoe.eu/network_codes/eb/terre/
+      \endverb
+    \endentry
+    \entry{epex_company_information_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=edc6e9677db612fae075f705564fd1ee}{%
+           family={{EPEX SPOT}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{edc6e9677db612fae075f705564fd1ee}
+      \strng{fullhash}{edc6e9677db612fae075f705564fd1ee}
+      \strng{fullhashraw}{edc6e9677db612fae075f705564fd1ee}
+      \strng{bibnamehash}{edc6e9677db612fae075f705564fd1ee}
+      \strng{authorbibnamehash}{edc6e9677db612fae075f705564fd1ee}
+      \strng{authornamehash}{edc6e9677db612fae075f705564fd1ee}
+      \strng{authorfullhash}{edc6e9677db612fae075f705564fd1ee}
+      \strng{authorfullhashraw}{edc6e9677db612fae075f705564fd1ee}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Company Information}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.epexspot.com/en/company-information
+      \endverb
+      \verb{url}
+      \verb https://www.epexspot.com/en/company-information
+      \endverb
+    \endentry
+    \entry{etpa_nemo_license_2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3b3d8f82100c139029edf53c2245c4f9}{%
+           family={{ETPA}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{3b3d8f82100c139029edf53c2245c4f9}
+      \strng{fullhash}{3b3d8f82100c139029edf53c2245c4f9}
+      \strng{fullhashraw}{3b3d8f82100c139029edf53c2245c4f9}
+      \strng{bibnamehash}{3b3d8f82100c139029edf53c2245c4f9}
+      \strng{authorbibnamehash}{3b3d8f82100c139029edf53c2245c4f9}
+      \strng{authornamehash}{3b3d8f82100c139029edf53c2245c4f9}
+      \strng{authorfullhash}{3b3d8f82100c139029edf53c2245c4f9}
+      \strng{authorfullhashraw}{3b3d8f82100c139029edf53c2245c4f9}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ETPA Acquires European Trading License and Growth Capital from SET Ventures and ABN AMRO}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.etpa.nl/en/news/etpa-acquires-european-trading-license-and-growth-capital-from-set-ventures-and-abn-amro
+      \endverb
+      \verb{url}
+      \verb https://www.etpa.nl/en/news/etpa-acquires-european-trading-license-and-growth-capital-from-set-ventures-and-abn-amro
+      \endverb
+    \endentry
+    \entry{etpa_about_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3b3d8f82100c139029edf53c2245c4f9}{%
+           family={{ETPA}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{3b3d8f82100c139029edf53c2245c4f9}
+      \strng{fullhash}{3b3d8f82100c139029edf53c2245c4f9}
+      \strng{fullhashraw}{3b3d8f82100c139029edf53c2245c4f9}
+      \strng{bibnamehash}{3b3d8f82100c139029edf53c2245c4f9}
+      \strng{authorbibnamehash}{3b3d8f82100c139029edf53c2245c4f9}
+      \strng{authornamehash}{3b3d8f82100c139029edf53c2245c4f9}
+      \strng{authorfullhash}{3b3d8f82100c139029edf53c2245c4f9}
+      \strng{authorfullhashraw}{3b3d8f82100c139029edf53c2245c4f9}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{About}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.etpa.nl/en/about
+      \endverb
+      \verb{url}
+      \verb https://www.etpa.nl/en/about
+      \endverb
+    \endentry
+    \entry{euronext_nord_pool_power_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f5e7898b14e1b64bcd107a4a44c206b6}{%
+           family={{Euronext}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{f5e7898b14e1b64bcd107a4a44c206b6}
+      \strng{fullhash}{f5e7898b14e1b64bcd107a4a44c206b6}
+      \strng{fullhashraw}{f5e7898b14e1b64bcd107a4a44c206b6}
+      \strng{bibnamehash}{f5e7898b14e1b64bcd107a4a44c206b6}
+      \strng{authorbibnamehash}{f5e7898b14e1b64bcd107a4a44c206b6}
+      \strng{authornamehash}{f5e7898b14e1b64bcd107a4a44c206b6}
+      \strng{authorfullhash}{f5e7898b14e1b64bcd107a4a44c206b6}
+      \strng{authorfullhashraw}{f5e7898b14e1b64bcd107a4a44c206b6}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Power Derivatives - Euronext Nord Pool Power Futures}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://live.euronext.com/en/products/commodities/power-derivatives
+      \endverb
+      \verb{url}
+      \verb https://live.euronext.com/en/products/commodities/power-derivatives
+      \endverb
+    \endentry
+    \entry{eu_reg_2016_1719}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a1b813a6e85874b4c945aec2cdbea74c}{%
+           family={{European Commission}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{bibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorbibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Commission Regulation (EU) 2016/1719 of 26 September 2016 Establishing a Guideline on Forward Capacity Allocation}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.259.01.0042.01.ENG&toc=OJ:L:2016:259:TOC
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.259.01.0042.01.ENG&toc=OJ:L:2016:259:TOC
+      \endverb
+    \endentry
+    \entry{eu_reg_2017_2195_ebgl}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a1b813a6e85874b4c945aec2cdbea74c}{%
+           family={{European Commission}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{bibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorbibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Commission Regulation (EU) 2017/2195 of 23 November 2017 Establishing a Guideline on Electricity Balancing}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R2195
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R2195
+      \endverb
+    \endentry
+    \entry{ec_electricity_market_design_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a1b813a6e85874b4c945aec2cdbea74c}{%
+           family={{European Commission}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{bibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorbibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \field{extraname}{3}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Electricity Market Design}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://energy.ec.europa.eu/topics/markets-and-consumers/electricity-market-design_en
+      \endverb
+      \verb{url}
+      \verb https://energy.ec.europa.eu/topics/markets-and-consumers/electricity-market-design_en
+      \endverb
+    \endentry
+    \entry{ec_network_codes_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a1b813a6e85874b4c945aec2cdbea74c}{%
+           family={{European Commission}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{bibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorbibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \field{extraname}{4}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Electricity Network Codes and Guidelines}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://energy.ec.europa.eu/topics/markets-and-consumers/wholesale-energy-market/electricity-network-codes-and-guidelines_en
+      \endverb
+      \verb{url}
+      \verb https://energy.ec.europa.eu/topics/markets-and-consumers/wholesale-energy-market/electricity-network-codes-and-guidelines_en
+      \endverb
+    \endentry
+    \entry{eex_power_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e200f3b625070552de188dd9b8bd1a71}{%
+           family={{European Energy Exchange}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{e200f3b625070552de188dd9b8bd1a71}
+      \strng{fullhash}{e200f3b625070552de188dd9b8bd1a71}
+      \strng{fullhashraw}{e200f3b625070552de188dd9b8bd1a71}
+      \strng{bibnamehash}{e200f3b625070552de188dd9b8bd1a71}
+      \strng{authorbibnamehash}{e200f3b625070552de188dd9b8bd1a71}
+      \strng{authornamehash}{e200f3b625070552de188dd9b8bd1a71}
+      \strng{authorfullhash}{e200f3b625070552de188dd9b8bd1a71}
+      \strng{authorfullhashraw}{e200f3b625070552de188dd9b8bd1a71}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Power}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.eex.com/en/markets/power
+      \endverb
+      \verb{url}
+      \verb https://www.eex.com/en/markets/power
+      \endverb
+    \endentry
+    \entry{eex_access_trading_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e200f3b625070552de188dd9b8bd1a71}{%
+           family={{European Energy Exchange}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{e200f3b625070552de188dd9b8bd1a71}
+      \strng{fullhash}{e200f3b625070552de188dd9b8bd1a71}
+      \strng{fullhashraw}{e200f3b625070552de188dd9b8bd1a71}
+      \strng{bibnamehash}{e200f3b625070552de188dd9b8bd1a71}
+      \strng{authorbibnamehash}{e200f3b625070552de188dd9b8bd1a71}
+      \strng{authornamehash}{e200f3b625070552de188dd9b8bd1a71}
+      \strng{authorfullhash}{e200f3b625070552de188dd9b8bd1a71}
+      \strng{authorfullhashraw}{e200f3b625070552de188dd9b8bd1a71}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Power Derivatives Access and Trading}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.eex.com/en/markets/power/power-derivatives/access-and-trading
+      \endverb
+      \verb{url}
+      \verb https://www.eex.com/en/markets/power/power-derivatives/access-and-trading
+      \endverb
+    \endentry
+    \entry{eu_reg_2011_1227_remit}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d0baa957acb6522d22e3251a428fe067}{%
+           family={{European Parliament and Council of the European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{fullhash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{fullhashraw}{d0baa957acb6522d22e3251a428fe067}
+      \strng{bibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorbibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authornamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorfullhash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorfullhashraw}{d0baa957acb6522d22e3251a428fe067}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) No 1227/2011 on Wholesale Energy Market Integrity and Transparency (REMIT)}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011R1227
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011R1227
+      \endverb
+    \endentry
+    \entry{eu_reg_2012_648_emir}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d0baa957acb6522d22e3251a428fe067}{%
+           family={{European Parliament and Council of the European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{fullhash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{fullhashraw}{d0baa957acb6522d22e3251a428fe067}
+      \strng{bibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorbibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authornamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorfullhash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorfullhashraw}{d0baa957acb6522d22e3251a428fe067}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) No 648/2012 on OTC Derivatives, Central Counterparties and Trade Repositories (EMIR)}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0648
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0648
+      \endverb
+    \endentry
+    \entry{eu_dir_2014_65_mifid2}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d0baa957acb6522d22e3251a428fe067}{%
+           family={{European Parliament and Council of the European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{fullhash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{fullhashraw}{d0baa957acb6522d22e3251a428fe067}
+      \strng{bibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorbibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authornamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorfullhash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorfullhashraw}{d0baa957acb6522d22e3251a428fe067}
+      \field{extraname}{3}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Directive 2014/65/EU on Markets in Financial Instruments (MiFID II)}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32014L0065
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32014L0065
+      \endverb
+    \endentry
+    \entry{eu_reg_2014_600_mifir}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d0baa957acb6522d22e3251a428fe067}{%
+           family={{European Parliament and Council of the European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{fullhash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{fullhashraw}{d0baa957acb6522d22e3251a428fe067}
+      \strng{bibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorbibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authornamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorfullhash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorfullhashraw}{d0baa957acb6522d22e3251a428fe067}
+      \field{extraname}{4}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) No 600/2014 on Markets in Financial Instruments (MiFIR)}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32014R0600
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32014R0600
+      \endverb
+    \endentry
+    \entry{eu_reg_2019_943}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d0baa957acb6522d22e3251a428fe067}{%
+           family={{European Parliament and Council of the European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{fullhash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{fullhashraw}{d0baa957acb6522d22e3251a428fe067}
+      \strng{bibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorbibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authornamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorfullhash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorfullhashraw}{d0baa957acb6522d22e3251a428fe067}
+      \field{extraname}{5}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) 2019/943 of 5 June 2019 on the Internal Market for Electricity}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.158.01.0054.01.ENG&toc=OJ:L:2019:158:TOC
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.158.01.0054.01.ENG&toc=OJ:L:2019:158:TOC
+      \endverb
+    \endentry
+    \entry{eu_reg_2024_1106_remit2}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d0baa957acb6522d22e3251a428fe067}{%
+           family={{European Parliament and Council of the European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{fullhash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{fullhashraw}{d0baa957acb6522d22e3251a428fe067}
+      \strng{bibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorbibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authornamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorfullhash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorfullhashraw}{d0baa957acb6522d22e3251a428fe067}
+      \field{extraname}{6}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) 2024/1106 of 29 April 2024 Amending Regulations (EU) No 1227/2011 and (EU) 2019/942 as Regards Improving the Union's Protection Against Market Manipulation in the Wholesale Energy Market}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2024/1106/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2024/1106/oj
+      \endverb
+    \endentry
+    \entry{eu_reg_2024_1689_ai_act}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d0baa957acb6522d22e3251a428fe067}{%
+           family={{European Parliament and Council of the European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{fullhash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{fullhashraw}{d0baa957acb6522d22e3251a428fe067}
+      \strng{bibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorbibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authornamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorfullhash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorfullhashraw}{d0baa957acb6522d22e3251a428fe067}
+      \field{extraname}{7}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{07}
+      \field{title}{Regulation (EU) 2024/1689 Laying Down Harmonised Rules on Artificial Intelligence}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://op.europa.eu/en/publication-detail/-/publication/dc8116a1-3fe6-11ef-865a-01aa75ed71a1/language-en
+      \endverb
+      \verb{url}
+      \verb https://op.europa.eu/en/publication-detail/-/publication/dc8116a1-3fe6-11ef-865a-01aa75ed71a1/language-en
+      \endverb
+    \endentry
+    \entry{exaa_about_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=75e019db7cdcb2e45ad27f4165c74649}{%
+           family={{EXAA}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{75e019db7cdcb2e45ad27f4165c74649}
+      \strng{fullhash}{75e019db7cdcb2e45ad27f4165c74649}
+      \strng{fullhashraw}{75e019db7cdcb2e45ad27f4165c74649}
+      \strng{bibnamehash}{75e019db7cdcb2e45ad27f4165c74649}
+      \strng{authorbibnamehash}{75e019db7cdcb2e45ad27f4165c74649}
+      \strng{authornamehash}{75e019db7cdcb2e45ad27f4165c74649}
+      \strng{authorfullhash}{75e019db7cdcb2e45ad27f4165c74649}
+      \strng{authorfullhashraw}{75e019db7cdcb2e45ad27f4165c74649}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{About EXAA}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.exaa.at/en/about-exaa/
+      \endverb
+      \verb{url}
+      \verb https://www.exaa.at/en/about-exaa/
+      \endverb
+    \endentry
+    \entry{gme_organization_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=506b6073c212531ce1072776a8a1b868}{%
+           family={{Gestore dei Mercati Energetici}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{506b6073c212531ce1072776a8a1b868}
+      \strng{fullhash}{506b6073c212531ce1072776a8a1b868}
+      \strng{fullhashraw}{506b6073c212531ce1072776a8a1b868}
+      \strng{bibnamehash}{506b6073c212531ce1072776a8a1b868}
+      \strng{authorbibnamehash}{506b6073c212531ce1072776a8a1b868}
+      \strng{authornamehash}{506b6073c212531ce1072776a8a1b868}
+      \strng{authorfullhash}{506b6073c212531ce1072776a8a1b868}
+      \strng{authorfullhashraw}{506b6073c212531ce1072776a8a1b868}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Organization}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.mercatoelettrico.org/en-us/Home/Aboutus/Organization
+      \endverb
+      \verb{url}
+      \verb https://www.mercatoelettrico.org/en-us/Home/Aboutus/Organization
+      \endverb
+    \endentry
+    \entry{gpw_h1_2025_tge_ownership_2025}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=57e8d324990ee87c31db195956940074}{%
+           family={{Gielda Papierow Wartosciowych w Warszawie}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{57e8d324990ee87c31db195956940074}
+      \strng{fullhash}{57e8d324990ee87c31db195956940074}
+      \strng{fullhashraw}{57e8d324990ee87c31db195956940074}
+      \strng{bibnamehash}{57e8d324990ee87c31db195956940074}
+      \strng{authorbibnamehash}{57e8d324990ee87c31db195956940074}
+      \strng{authornamehash}{57e8d324990ee87c31db195956940074}
+      \strng{authorfullhash}{57e8d324990ee87c31db195956940074}
+      \strng{authorfullhashraw}{57e8d324990ee87c31db195956940074}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{GPW Group H1 2025 Consolidated Financial Report}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://pap-mediaroom.pl/sites/default/files/2025-09/GPW_Group_H1_2025_Consolidated_Financial_Report.pdf
+      \endverb
+      \verb{url}
+      \verb https://pap-mediaroom.pl/sites/default/files/2025-09/GPW_Group_H1_2025_Consolidated_Financial_Report.pdf
+      \endverb
+    \endentry
+    \entry{henex_company_profile_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5466212728fbd1293e66307aed67f422}{%
+           family={{HEnEx Group}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{5466212728fbd1293e66307aed67f422}
+      \strng{fullhash}{5466212728fbd1293e66307aed67f422}
+      \strng{fullhashraw}{5466212728fbd1293e66307aed67f422}
+      \strng{bibnamehash}{5466212728fbd1293e66307aed67f422}
+      \strng{authorbibnamehash}{5466212728fbd1293e66307aed67f422}
+      \strng{authornamehash}{5466212728fbd1293e66307aed67f422}
+      \strng{authorfullhash}{5466212728fbd1293e66307aed67f422}
+      \strng{authorfullhashraw}{5466212728fbd1293e66307aed67f422}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Company Profile}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.enexgroup.gr/web/guest/company-profile
+      \endverb
+      \verb{url}
+      \verb https://www.enexgroup.gr/web/guest/company-profile
+      \endverb
+    \endentry
+    \entry{hupx_about_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=14bcf8c7507f3d9614a0b5c45a3724ce}{%
+           family={{HUPX}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{14bcf8c7507f3d9614a0b5c45a3724ce}
+      \strng{fullhash}{14bcf8c7507f3d9614a0b5c45a3724ce}
+      \strng{fullhashraw}{14bcf8c7507f3d9614a0b5c45a3724ce}
+      \strng{bibnamehash}{14bcf8c7507f3d9614a0b5c45a3724ce}
+      \strng{authorbibnamehash}{14bcf8c7507f3d9614a0b5c45a3724ce}
+      \strng{authornamehash}{14bcf8c7507f3d9614a0b5c45a3724ce}
+      \strng{authorfullhash}{14bcf8c7507f3d9614a0b5c45a3724ce}
+      \strng{authorfullhashraw}{14bcf8c7507f3d9614a0b5c45a3724ce}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{About}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://hupx.hu/about
+      \endverb
+      \verb{url}
+      \verb https://hupx.hu/about
+      \endverb
+    \endentry
+    \entry{ibex_profile_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=20c11ba2bdb0e73f54590d8a3751a9a4}{%
+           family={{Independent Bulgarian Energy Exchange}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{20c11ba2bdb0e73f54590d8a3751a9a4}
+      \strng{fullhash}{20c11ba2bdb0e73f54590d8a3751a9a4}
+      \strng{fullhashraw}{20c11ba2bdb0e73f54590d8a3751a9a4}
+      \strng{bibnamehash}{20c11ba2bdb0e73f54590d8a3751a9a4}
+      \strng{authorbibnamehash}{20c11ba2bdb0e73f54590d8a3751a9a4}
+      \strng{authornamehash}{20c11ba2bdb0e73f54590d8a3751a9a4}
+      \strng{authorfullhash}{20c11ba2bdb0e73f54590d8a3751a9a4}
+      \strng{authorfullhashraw}{20c11ba2bdb0e73f54590d8a3751a9a4}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Profile}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ibex.bg/en/profile.html
+      \endverb
+      \verb{url}
+      \verb https://ibex.bg/en/profile.html
+      \endverb
+    \endentry
+    \entry{ice_endex_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9dc4924554289c38f0c3b8c03dbd576e}{%
+           family={{Intercontinental Exchange}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{9dc4924554289c38f0c3b8c03dbd576e}
+      \strng{fullhash}{9dc4924554289c38f0c3b8c03dbd576e}
+      \strng{fullhashraw}{9dc4924554289c38f0c3b8c03dbd576e}
+      \strng{bibnamehash}{9dc4924554289c38f0c3b8c03dbd576e}
+      \strng{authorbibnamehash}{9dc4924554289c38f0c3b8c03dbd576e}
+      \strng{authornamehash}{9dc4924554289c38f0c3b8c03dbd576e}
+      \strng{authorfullhash}{9dc4924554289c38f0c3b8c03dbd576e}
+      \strng{authorfullhashraw}{9dc4924554289c38f0c3b8c03dbd576e}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ICE Endex Energy Exchange for Gas and Power}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ice.com/ENDEX
+      \endverb
+      \verb{url}
+      \verb https://www.ice.com/ENDEX
+      \endverb
+    \endentry
+    \entry{lago_marcjasz_schutter_weron_2021_epf}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=e6d8a5b4cb4cd4ec0c45b4b15eaecce7}{%
+           family={Lago},
+           familyi={L\bibinitperiod},
+           given={Jesus},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d049c99fa3e5674ec00d202decf5a142}{%
+           family={Marcjasz},
+           familyi={M\bibinitperiod},
+           given={Grzegorz},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3aa279196551f6d4f6429776156250b6}{%
+           family={De\bibnamedelima Schutter},
+           familyi={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Bart},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=50f1e79d93afa08eb15137451cb34709}{%
+           family={Weron},
+           familyi={W\bibinitperiod},
+           given={Rafal},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f35b7b3a425f597f35f5713c0d0b0192}
+      \strng{fullhash}{fe23ba2cfc6ffb2f7c7e41ee6606acbd}
+      \strng{fullhashraw}{fe23ba2cfc6ffb2f7c7e41ee6606acbd}
+      \strng{bibnamehash}{fe23ba2cfc6ffb2f7c7e41ee6606acbd}
+      \strng{authorbibnamehash}{fe23ba2cfc6ffb2f7c7e41ee6606acbd}
+      \strng{authornamehash}{f35b7b3a425f597f35f5713c0d0b0192}
+      \strng{authorfullhash}{fe23ba2cfc6ffb2f7c7e41ee6606acbd}
+      \strng{authorfullhashraw}{fe23ba2cfc6ffb2f7c7e41ee6606acbd}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Energy}
+      \field{title}{Forecasting Day-Ahead Electricity Prices: A Review of State-of-the-Art Algorithms, Best Practices and an Open-Access Benchmark}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{293}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{116983}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.apenergy.2021.116983
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0306261921004529
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0306261921004529
+      \endverb
+    \endentry
+    \entry{nord_pool_general_terms_conditions_2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4dc74925c326d66855187729df7d9d7b}{%
+           family={{Nord Pool}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{fullhash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{fullhashraw}{4dc74925c326d66855187729df7d9d7b}
+      \strng{bibnamehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authorbibnamehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authornamehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authorfullhash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authorfullhashraw}{4dc74925c326d66855187729df7d9d7b}
+      \field{extraname}{1}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{General Terms and Conditions}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nordpoolgroup.com/en/trading/Rule-and-regulations/General-terms-and-conditions/
+      \endverb
+      \verb{url}
+      \verb https://www.nordpoolgroup.com/en/trading/Rule-and-regulations/General-terms-and-conditions/
+      \endverb
+    \endentry
+    \entry{nord_pool_about_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4dc74925c326d66855187729df7d9d7b}{%
+           family={{Nord Pool}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{fullhash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{fullhashraw}{4dc74925c326d66855187729df7d9d7b}
+      \strng{bibnamehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authorbibnamehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authornamehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authorfullhash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authorfullhashraw}{4dc74925c326d66855187729df7d9d7b}
+      \field{extraname}{2}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{About Us}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nordpoolgroup.com/en/about-us/
+      \endverb
+      \verb{url}
+      \verb https://www.nordpoolgroup.com/en/about-us/
+      \endverb
+    \endentry
+    \entry{nord_pool_day_ahead_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4dc74925c326d66855187729df7d9d7b}{%
+           family={{Nord Pool}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{fullhash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{fullhashraw}{4dc74925c326d66855187729df7d9d7b}
+      \strng{bibnamehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authorbibnamehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authornamehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authorfullhash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authorfullhashraw}{4dc74925c326d66855187729df7d9d7b}
+      \field{extraname}{3}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Day-Ahead Market}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nordpoolgroup.com/en/the-power-market/Day-ahead-market/
+      \endverb
+      \verb{url}
+      \verb https://www.nordpoolgroup.com/en/the-power-market/Day-ahead-market/
+      \endverb
+    \endentry
+    \entry{nord_pool_intraday_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4dc74925c326d66855187729df7d9d7b}{%
+           family={{Nord Pool}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{fullhash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{fullhashraw}{4dc74925c326d66855187729df7d9d7b}
+      \strng{bibnamehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authorbibnamehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authornamehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authorfullhash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authorfullhashraw}{4dc74925c326d66855187729df7d9d7b}
+      \field{extraname}{4}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Intraday Market}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nordpoolgroup.com/en/the-power-market/Intraday-market/
+      \endverb
+      \verb{url}
+      \verb https://www.nordpoolgroup.com/en/the-power-market/Intraday-market/
+      \endverb
+    \endentry
+    \entry{nord_pool_rules_regulations_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4dc74925c326d66855187729df7d9d7b}{%
+           family={{Nord Pool}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{fullhash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{fullhashraw}{4dc74925c326d66855187729df7d9d7b}
+      \strng{bibnamehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authorbibnamehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authornamehash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authorfullhash}{4dc74925c326d66855187729df7d9d7b}
+      \strng{authorfullhashraw}{4dc74925c326d66855187729df7d9d7b}
+      \field{extraname}{5}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Rules and Regulations}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nordpoolgroup.com/en/trading/Rule-and-regulations/
+      \endverb
+      \verb{url}
+      \verb https://www.nordpoolgroup.com/en/trading/Rule-and-regulations/
+      \endverb
+    \endentry
+    \entry{oconnor_bahloul_prestwich_visentin_2025_epf}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4ec943917a50efdf4fc6c26cb9a28a99}{%
+           family={O'Connor},
+           familyi={O\bibinitperiod},
+           given={Ciaran},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d76bb66db658314770818ffb66ab3a34}{%
+           family={Bahloul},
+           familyi={B\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=48723f71036121efe3847a4c1b61635a}{%
+           family={Prestwich},
+           familyi={P\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f161f337343ff60c96e1a19172268c46}{%
+           family={Visentin},
+           familyi={V\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{456350cff9d33559f5870b033cc7a5bc}
+      \strng{fullhash}{56da1f24211cbd853a3d2450e2678527}
+      \strng{fullhashraw}{56da1f24211cbd853a3d2450e2678527}
+      \strng{bibnamehash}{56da1f24211cbd853a3d2450e2678527}
+      \strng{authorbibnamehash}{56da1f24211cbd853a3d2450e2678527}
+      \strng{authornamehash}{456350cff9d33559f5870b033cc7a5bc}
+      \strng{authorfullhash}{56da1f24211cbd853a3d2450e2678527}
+      \strng{authorfullhashraw}{56da1f24211cbd853a3d2450e2678527}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energies}
+      \field{number}{12}
+      \field{title}{A Review of Electricity Price Forecasting Models in the Day-Ahead, Intra-Day, and Balancing Markets}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{18}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \field{pages}{3097}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/en18123097
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/1996-1073/18/12/3097
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/1996-1073/18/12/3097
+      \endverb
+    \endentry
+    \entry{okte_dam_overview_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fe6fda220d44931610d704ed1d7b23f9}{%
+           family={{OKTE, a.s.}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{fe6fda220d44931610d704ed1d7b23f9}
+      \strng{fullhash}{fe6fda220d44931610d704ed1d7b23f9}
+      \strng{fullhashraw}{fe6fda220d44931610d704ed1d7b23f9}
+      \strng{bibnamehash}{fe6fda220d44931610d704ed1d7b23f9}
+      \strng{authorbibnamehash}{fe6fda220d44931610d704ed1d7b23f9}
+      \strng{authornamehash}{fe6fda220d44931610d704ed1d7b23f9}
+      \strng{authorfullhash}{fe6fda220d44931610d704ed1d7b23f9}
+      \strng{authorfullhashraw}{fe6fda220d44931610d704ed1d7b23f9}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Day-Ahead Detailed Overview}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.okte.sk/en/short-term-market/published-information-of-dam/day-ahead-detailed-overview/
+      \endverb
+      \verb{url}
+      \verb https://www.okte.sk/en/short-term-market/published-information-of-dam/day-ahead-detailed-overview/
+      \endverb
+    \endentry
+    \entry{omi_group_faq_ownership_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9d07fc8286cd90e076a891ba3cacb6fa}{%
+           family={{OMI Group}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{9d07fc8286cd90e076a891ba3cacb6fa}
+      \strng{fullhash}{9d07fc8286cd90e076a891ba3cacb6fa}
+      \strng{fullhashraw}{9d07fc8286cd90e076a891ba3cacb6fa}
+      \strng{bibnamehash}{9d07fc8286cd90e076a891ba3cacb6fa}
+      \strng{authorbibnamehash}{9d07fc8286cd90e076a891ba3cacb6fa}
+      \strng{authornamehash}{9d07fc8286cd90e076a891ba3cacb6fa}
+      \strng{authorfullhash}{9d07fc8286cd90e076a891ba3cacb6fa}
+      \strng{authorfullhashraw}{9d07fc8286cd90e076a891ba3cacb6fa}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{FAQs}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.grupoomi.eu/en/faqs/
+      \endverb
+      \verb{url}
+      \verb https://www.grupoomi.eu/en/faqs/
+      \endverb
+    \endentry
+    \entry{omie_about_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=36744d82677cb5239bd1f61d51506e9d}{%
+           family={{OMIE}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{36744d82677cb5239bd1f61d51506e9d}
+      \strng{fullhash}{36744d82677cb5239bd1f61d51506e9d}
+      \strng{fullhashraw}{36744d82677cb5239bd1f61d51506e9d}
+      \strng{bibnamehash}{36744d82677cb5239bd1f61d51506e9d}
+      \strng{authorbibnamehash}{36744d82677cb5239bd1f61d51506e9d}
+      \strng{authornamehash}{36744d82677cb5239bd1f61d51506e9d}
+      \strng{authorfullhash}{36744d82677cb5239bd1f61d51506e9d}
+      \strng{authorfullhashraw}{36744d82677cb5239bd1f61d51506e9d}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{About Us}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.omie.es/en/about-us
+      \endverb
+      \verb{url}
+      \verb https://www.omie.es/en/about-us
+      \endverb
+    \endentry
+    \entry{ote_basic_facts_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=191a3a02b907171f0151eb4f87db46e2}{%
+           family={{OTE, a.s.}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{191a3a02b907171f0151eb4f87db46e2}
+      \strng{fullhash}{191a3a02b907171f0151eb4f87db46e2}
+      \strng{fullhashraw}{191a3a02b907171f0151eb4f87db46e2}
+      \strng{bibnamehash}{191a3a02b907171f0151eb4f87db46e2}
+      \strng{authorbibnamehash}{191a3a02b907171f0151eb4f87db46e2}
+      \strng{authornamehash}{191a3a02b907171f0151eb4f87db46e2}
+      \strng{authorfullhash}{191a3a02b907171f0151eb4f87db46e2}
+      \strng{authorfullhashraw}{191a3a02b907171f0151eb4f87db46e2}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Basic Facts}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ote-cr.cz/en/basic-facts
+      \endverb
+      \verb{url}
+      \verb https://www.ote-cr.cz/en/basic-facts
+      \endverb
+    \endentry
+    \entry{rockafellar_uryasev_2000_cvar}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=18de24308c36b3348b1477a2f7aa442f}{%
+           family={Rockafellar},
+           familyi={R\bibinitperiod},
+           given={R.\bibnamedelimi Tyrrell},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=75a8a2346ba45ae5110aa302b89a30c7}{%
+           family={Uryasev},
+           familyi={U\bibinitperiod},
+           given={Stanislav},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d7d7df1ff728c2fe07554ddd8bb41c56}
+      \strng{fullhash}{d7d7df1ff728c2fe07554ddd8bb41c56}
+      \strng{fullhashraw}{d7d7df1ff728c2fe07554ddd8bb41c56}
+      \strng{bibnamehash}{d7d7df1ff728c2fe07554ddd8bb41c56}
+      \strng{authorbibnamehash}{d7d7df1ff728c2fe07554ddd8bb41c56}
+      \strng{authornamehash}{d7d7df1ff728c2fe07554ddd8bb41c56}
+      \strng{authorfullhash}{d7d7df1ff728c2fe07554ddd8bb41c56}
+      \strng{authorfullhashraw}{d7d7df1ff728c2fe07554ddd8bb41c56}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Risk}
+      \field{number}{3}
+      \field{title}{Optimization of Conditional Value-at-Risk}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{2}
+      \field{year}{2000}
+      \field{urldateera}{ce}
+      \field{pages}{21\bibrangedash 42}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.21314/JOR.2000.038
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.21314/JOR.2000.038
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.21314/JOR.2000.038
+      \endverb
+    \endentry
+    \entry{semopx_about_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2d940061be2db49506446ae4111c0739}{%
+           family={{SEMOpx}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{2d940061be2db49506446ae4111c0739}
+      \strng{fullhash}{2d940061be2db49506446ae4111c0739}
+      \strng{fullhashraw}{2d940061be2db49506446ae4111c0739}
+      \strng{bibnamehash}{2d940061be2db49506446ae4111c0739}
+      \strng{authorbibnamehash}{2d940061be2db49506446ae4111c0739}
+      \strng{authornamehash}{2d940061be2db49506446ae4111c0739}
+      \strng{authorfullhash}{2d940061be2db49506446ae4111c0739}
+      \strng{authorfullhashraw}{2d940061be2db49506446ae4111c0739}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{About SEMOpx}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.semopx.com/about/
+      \endverb
+      \verb{url}
+      \verb https://www.semopx.com/about/
+      \endverb
+    \endentry
+    \entry{nist_ai_rmf_2023}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=da4d6f760817f258d4447d01266d3298}{%
+           family={Tabassi},
+           familyi={T\bibinitperiod},
+           given={Elham},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{2}{%
+        {National Institute of Standards}%
+        {Technology}%
+      }
+      \strng{namehash}{da4d6f760817f258d4447d01266d3298}
+      \strng{fullhash}{da4d6f760817f258d4447d01266d3298}
+      \strng{fullhashraw}{da4d6f760817f258d4447d01266d3298}
+      \strng{bibnamehash}{da4d6f760817f258d4447d01266d3298}
+      \strng{authorbibnamehash}{da4d6f760817f258d4447d01266d3298}
+      \strng{authornamehash}{da4d6f760817f258d4447d01266d3298}
+      \strng{authorfullhash}{da4d6f760817f258d4447d01266d3298}
+      \strng{authorfullhashraw}{da4d6f760817f258d4447d01266d3298}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{NIST AI 100-1}
+      \field{title}{Artificial Intelligence Risk Management Framework (AI RMF 1.0)}
+      \field{type}{techreport}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.6028/NIST.AI.100-1
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.6028/NIST.AI.100-1
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.6028/NIST.AI.100-1
+      \endverb
+    \endentry
+    \entry{transelectrica_opcom_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=52e8aef0e4580200ea0669f22a947a7d}{%
+           family={{Transelectrica}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{52e8aef0e4580200ea0669f22a947a7d}
+      \strng{fullhash}{52e8aef0e4580200ea0669f22a947a7d}
+      \strng{fullhashraw}{52e8aef0e4580200ea0669f22a947a7d}
+      \strng{bibnamehash}{52e8aef0e4580200ea0669f22a947a7d}
+      \strng{authorbibnamehash}{52e8aef0e4580200ea0669f22a947a7d}
+      \strng{authornamehash}{52e8aef0e4580200ea0669f22a947a7d}
+      \strng{authorfullhash}{52e8aef0e4580200ea0669f22a947a7d}
+      \strng{authorfullhashraw}{52e8aef0e4580200ea0669f22a947a7d}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{OPCOM}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.transelectrica.ro/web/tel/opcom
+      \endverb
+      \verb{url}
+      \verb https://www.transelectrica.ro/web/tel/opcom
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
